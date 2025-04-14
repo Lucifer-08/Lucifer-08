@@ -2,11 +2,11 @@
 
 ## 💻 Aspiring Full-Stack Developer | 🚀 Graphics Designer
 
-I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National Institute of Technology, Allahabad**. I enjoy building full-stack web applications, exploring new technologies, and solving real-world problems through code.
+I'm a passionate and creative developer currently pursuing B.Tech at **Motilal Nehru National Institute of Technology, Allahabad**. I enjoy building full-stack web applications, exploring new technologies, and solving real-world problems through code. Alongside development, I also have a keen eye for design and work as a **Graphic Designer**, combining functionality with aesthetics to create clean, user-friendly interfaces. Whether it's writing code or designing visuals, I love bringing ideas to life through a mix of logic and creativity.
 
 ## 🎯 Current Focus
-- Building real-world full-stack projects 🧩
-- Exploring **Next.js**, **WebSockets**, and **TypeScript**
+- Building real-world full-stack projects
+- Exploring **React.js** and **WebSockets**
 - Learning system design and backend architecture
 - Contributing to open-source
 
@@ -41,6 +41,70 @@ I'm a passionate developer currently pursuing B.Tech at **Motilal Nehru National
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>
 </p>
+
+## 📌 Projects
+<details> <summary>🧠 <strong><a href="https://github.com/Lucifer-08/LaMenteE">LaMenteE – DevJam Project</a></strong></summary>
+  
+**🎓 Purpose:** A platform designed to connect students with mentors from top colleges, providing personalized guidance, career advice, and industry insights.​
+
+**🔑 Key Features:**
+
+- ***Admin Panel:*** Manage user accounts efficiently.​
+
+- ***Authentication System:*** Includes login, signup, logout, email verification, and password reset functionalities.​
+
+**🛠️ Tech Stack:**
+
+- ***Frontend:*** HTML, CSS, Bootstrap, JavaScript​
+
+- ***Backend:*** PHP​
+
+- ***Database:*** MySQL
+
+</details>
+
+<details> <summary>🌤️ <strong><a href="https://github.com/Lucifer-08/Weather">Weather App</a></strong></summary>
+  
+**🔍 Purpose:** Provides real-time weather information for any city entered by the user.​
+GitHub
+
+**🛠️ Technologies Used:**
+
+- ***Frontend:*** HTML, CSS​
+
+- ***Scripting:*** JavaScript​
+
+- ***API:*** Utilizes a Weather API to fetch current weather data​
+
+**⚙️ Core Features:**
+
+- User inputs a city name to retrieve weather details​
+
+- Displays current weather conditions for the specified city
+
+</details>
+
+<details> <summary>📱 <strong><a href="https://github.com/Lucifer-08/QR-Generator">QR Code Generator</a></strong></summary>
+  
+**🔍 Purpose:** Generates QR codes for user-entered URLs, facilitating quick and easy sharing or access.​
+
+**🛠️ Technologies Used:**
+
+- ***Frontend:*** HTML, CSS​
+
+- ***Scripting:*** JavaScript​
+
+- ***Library:*** Utilizes qrcode.min.js for QR code generation​
+
+**⚙️ Core Features:**
+
+- User inputs a URL to generate a corresponding QR code​
+
+- Real-time QR code generation upon URL submission​
+
+- Clean and responsive user interface for ease of use
+
+</details>
 
 ## 📫 Reach Me
 - 📍 [LinkedIn](https://www.linkedin.com/in/bhargav-miyani-3a6243313/)
